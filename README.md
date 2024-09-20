@@ -1,0 +1,1 @@
+Comparison of AWS Simple Email Service, Resend, and Loops.
