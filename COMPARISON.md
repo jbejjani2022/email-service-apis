@@ -32,3 +32,19 @@ https://www.reddit.com/r/SaaS/comments/135lgwu/email_sending_api/
 ![Pricing](static/resend_pricing.png)
 
 [resend-go-example](https://github.com/resend/resend-go-example) GitHub repo showing how to use Resend with Go
+
+## Loops
+- Strengths:
+    - Really easy to use visual editor for building email templates. Kind of like Notion. Simple no code approach.
+    - Automated drip campaigns for sending pre-written messages to contacts over time.
+    - Contact management
+    - Deliverability and email placement
+    - Can schedule email sends and newsletter campaigns
+- Weaknesses:
+    - API is too light? Lacking in developer tools and features
+    - Users can't add their own domains as verified senders
+
+Worried about limitations in scalability? Can it handle sending emails to 1M+ contacts? How quickly can it do this and how much does it cost?
+![Loops pricing](static/loops_pricing.png)
+
+https://www.youtube.com/watch?v=bJMN5OwyE1o
